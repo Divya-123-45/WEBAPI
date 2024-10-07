@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WEB API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\divya\\source\\repos\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API.csproj",
       "projectName": "RestaurantOrderManagement.API",
-      "projectPath": "D:\\WEB API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API.csproj",
+      "projectPath": "C:\\Users\\divya\\source\\repos\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API.csproj",
       "packagesPath": "C:\\Users\\divya\\.nuget\\packages\\",
-      "outputPath": "D:\\WEB API\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\obj\\",
+      "outputPath": "C:\\Users\\divya\\source\\repos\\RestaurantOrderManagement.API\\RestaurantOrderManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\divya\\AppData\\Roaming\\NuGet\\NuGet.Config",
